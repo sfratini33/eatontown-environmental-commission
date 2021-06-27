@@ -1,2 +1,2 @@
-# eatontown-environmental-commission
-Repository of public documents (such as minutes) from the Eatontown Environmental Commission
+# Environmentally Speaking
+Repository of public documents for the Monmouth County Environmentally Speaking wiki (not affiliated with Monmouth County)
